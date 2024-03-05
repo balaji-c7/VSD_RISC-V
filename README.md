@@ -22,7 +22,9 @@ VSDSQUADRON Mini Board
 THE first internship call was held on 16th of feb 2024
 
 
-#TASK 1
+# TASK 1
+
+As of 16th feb
 
 1.install RISC-V GNU Toolchain
 
