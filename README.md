@@ -36,3 +36,10 @@ THE first internship call was held on 16th of feb 2024
 
 # CLONING RISC-V GNU TOOLCHAIN
 
+
+![Screenshot 2024-03-04 202354](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/c6463f43-eed6-49ac-a912-d71a858de74e)
+
+
+
+![Screenshot 2024-03-04 203451](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/2a243be3-1ed7-4ac6-8ee3-6aa6f8b3e740)
+
