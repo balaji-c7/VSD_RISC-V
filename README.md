@@ -58,6 +58,8 @@ As of 16th feb
 
 # TASK 2
 
+As of 20th feb
+
 BLOCK DIAGRAM
 
 ![BD_TL](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/3117ee82-6e77-4727-a641-c38c47c8cb20)
