@@ -54,3 +54,18 @@ As of 16th feb
 
 
 ![Screenshot 2024-03-05 165809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/66afba37-75ed-42f1-a411-edbb814d7b03)
+
+
+# TASK 2
+
+BLOCK DIAGRAM
+
+![BD_TL](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/3117ee82-6e77-4727-a641-c38c47c8cb20)
+
+SIGNAL DESCRIPTION
+
+![Screenshot 2024-03-05 201406](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/6333076f-29aa-4354-8870-8c574532b9a7)
+
+FLOW DIAGRAM
+
+![WhatsApp Image 2024-01-11 at 4 20 00 PM](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/9a9f1059-d4e0-476f-ab8b-07dffab743a8)
