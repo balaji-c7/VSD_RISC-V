@@ -85,6 +85,10 @@ Basic RTL and TEST BENCH Files
 
 ![Screenshot 2024-03-08 164819](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/b9c0d4d7-f8c0-483f-9754-51e695edc8fd)
 
+
+Executing the MUX file
+
+![Screenshot 2024-03-08 172339](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f4690ed1-f1df-49ef-982a-90c88f109d64)
 GTKWave form for a basic mux
 ![Screenshot 2024-03-08 171809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8d7be4d-b72e-4cb7-8b7f-3ed7c248fa41)
 
