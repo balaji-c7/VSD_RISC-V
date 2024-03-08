@@ -76,7 +76,7 @@ FLOW DIAGRAM
 # TASK 3
 As of 26th deb
 
-Cloning github files (SKY 130) credit to https://github.com/kunalg123
+Cloning github files (SKY 130) credit @ https://github.com/kunalg123
 
 
 ![sky130](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/4e3f7852-8208-4e1c-86f2-777867faedeb)
