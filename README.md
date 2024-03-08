@@ -71,3 +71,20 @@ SIGNAL DESCRIPTION
 FLOW DIAGRAM
 
 ![WhatsApp Image 2024-01-11 at 4 20 00 PM](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/50b43a57-34c4-48ca-9255-95f561e3f6a0)
+
+
+# TASK 3
+As of 26th deb
+
+Cloning github files (SKY 130) credit to https://github.com/kunalg123
+
+
+![sky130](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/4e3f7852-8208-4e1c-86f2-777867faedeb)
+
+Basic RTL and TEST BENCH Files
+
+![Screenshot 2024-03-08 164819](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/b9c0d4d7-f8c0-483f-9754-51e695edc8fd)
+
+GTKWave form for a basic mux
+![Screenshot 2024-03-08 171809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8d7be4d-b72e-4cb7-8b7f-3ed7c248fa41)
+
