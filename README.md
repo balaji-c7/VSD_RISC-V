@@ -93,6 +93,15 @@ GTKWave form for a basic mux
 ![Screenshot 2024-03-08 171809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8d7be4d-b72e-4cb7-8b7f-3ed7c248fa41)
 
 
+TRAFFIC LIGHT CONTROLLER Verilog Code 
+![Screenshot 2024-03-10 231657](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/12c3aa73-dbb2-499e-9198-6dcb259d4b8a)
+
+TRAFFIC LIGHT CONTROLLER Testbench file
+![Screenshot 2024-03-10 231726](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/4756770f-af79-4ebb-b769-b7350bbc4b5e)
+
+GTKWave form for the TRAFFIC LIGHT CONTROLLER
+![Screenshot 2024-03-10 231018](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/b172dbeb-e1e1-418b-9620-1091a0e67f97)
+
 # TASK 4
 
 Invoke the yosys tool using yosys command
