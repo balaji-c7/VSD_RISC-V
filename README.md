@@ -107,6 +107,4 @@ abc exe pass
 
 ![Screenshot 2024-03-10 153536](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/612bf642-1d45-421c-947e-d77d1cab4619)
 
-yosys dot viewer for logic
 
-![Screenshot 2024-03-10 152311](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/269837fa-bc2c-40f2-a29b-1c1e26fd634a)
