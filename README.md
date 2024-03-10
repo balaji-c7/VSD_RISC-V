@@ -92,3 +92,21 @@ Executing the MUX file
 GTKWave form for a basic mux
 ![Screenshot 2024-03-08 171809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8d7be4d-b72e-4cb7-8b7f-3ed7c248fa41)
 
+
+# TASK 4
+
+Invoke the yosys tool using yosys command
+
+![Screenshot 2024-03-10 112753](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/26b788c2-883e-4468-899b-da58bed1dc70)
+
+Synthesis good_mux file
+
+![Screenshot 2024-03-10 153203](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/6773da39-45ec-4361-92c4-d6fb50a4a2e1)
+
+abc exe pass
+
+![Screenshot 2024-03-10 153536](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/612bf642-1d45-421c-947e-d77d1cab4619)
+
+yosys dot viewer for logic
+
+![Screenshot 2024-03-10 152311](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/269837fa-bc2c-40f2-a29b-1c1e26fd634a)
