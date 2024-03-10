@@ -93,7 +93,7 @@ GTKWave form for a basic mux
 ![Screenshot 2024-03-08 171809](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8d7be4d-b72e-4cb7-8b7f-3ed7c248fa41)
 
 
-TRAFFIC LIGHT CONTROLLER Verilog Code 
+TRAFFIC LIGHT CONTROLLER Verilog Code (INITIAL VERSION)
 ![Screenshot 2024-03-10 231657](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/12c3aa73-dbb2-499e-9198-6dcb259d4b8a)
 
 TRAFFIC LIGHT CONTROLLER Testbench file
