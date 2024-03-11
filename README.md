@@ -113,13 +113,6 @@ Synthesis traffic light controller file
 ![Screenshot 2024-03-11 224949](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/3b6ce273-3a7d-4063-9738-2fb160d8cb89)
 
 
-Realised logic..from dot viewer 
-![Screenshot 2024-03-11 225323](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/33a774f8-315d-4d48-abf7-2eeb546410d3)
-
-wave-form
-
-![Screenshot 2024-03-11 230507](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/45734199-5085-4baf-a912-e945af3dba65)
-
 
 
 
@@ -128,3 +121,10 @@ abc exe pass
 ![Screenshot 2024-03-11 225142](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/a6c1c0e1-2ff2-4cca-bb78-fbce80d5d4fd)
 
 
+
+Realised logic..from dot viewer 
+![Screenshot 2024-03-11 225323](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/33a774f8-315d-4d48-abf7-2eeb546410d3)
+
+wave-form
+
+![Screenshot 2024-03-11 230507](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/45734199-5085-4baf-a912-e945af3dba65)
