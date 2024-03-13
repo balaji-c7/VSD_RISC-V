@@ -103,6 +103,9 @@ GTKWave form for the TRAFFIC LIGHT CONTROLLER
 ![Screenshot 2024-03-10 231018](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/b172dbeb-e1e1-418b-9620-1091a0e67f97)
 
 # TASK 4
+checking design file using GTK wave
+
+![Screenshot 2024-03-13 203412](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/09854953-b76b-4158-b142-8abf092b651b)
 
 Invoke the yosys tool using yosys command
 
@@ -142,7 +145,9 @@ Realised logic..from dot viewer
 
 wave-form
 
-![Screenshot 2024-03-11 230507](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/45734199-5085-4baf-a912-e945af3dba65)
+![Screenshot 2024-03-13 204423](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/fda769c2-fbfb-43b8-97c7-e8a3f8658cb4)
+#ACKNOWLEDGMENT
+=>MR.Kunal ghosh,Director&Co-founder of VSD Corpration pvt ltd..,
 
 #REFERENCES 
 
