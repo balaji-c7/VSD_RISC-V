@@ -118,6 +118,16 @@ abc exe pass
 
 # TASK 5
 Task 5 is to synthesis and generate the netlist of the Traffic light controller file
+
+
+Original RTL codes
+![Screenshot 2024-03-13 201721](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/28c1e310-7269-445f-854e-d3e07eaae7f4)
+
+![Screenshot 2024-03-13 201741](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/0afec5d0-9783-4844-b564-caca07c13780)
+
+![Screenshot 2024-03-13 201752](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/74536adb-bb69-4fdc-b961-5288de167920)
+
+
 Synthesis traffic light controller file
 
 ![Screenshot 2024-03-11 224949](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/3b6ce273-3a7d-4063-9738-2fb160d8cb89)
@@ -125,7 +135,7 @@ Synthesis traffic light controller file
 Netlist file of TLC
 ![Screenshot 2024-03-11 225631](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/eadd6b18-1f9c-415b-a7a0-3bf583dc0d91)
 
-simple Netlist file of TLC
+simplified Netlist file of TLC
 ![Screenshot 2024-03-11 225815](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/f8fa37e3-e367-48b1-bcb0-c267dea533d1)
 Realised logic..from dot viewer 
 ![Screenshot 2024-03-11 225323](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/33a774f8-315d-4d48-abf7-2eeb546410d3)
@@ -136,5 +146,6 @@ wave-form
 
 #REFERENCES 
 
-=>GUIDE-Kunal Ghosh, Diretor, VSD Corp. Pvt. Ltd., # kunalpghosh@gmail.com
-=>TLC Files-Lokesh Maji, M.Tech - VLSI, Batch: 2022-24, IIITB, # majilokesh10@gmail.com
+=>GUIDE-Kunal Ghosh, Diretor, VSD Corp. Pvt. Ltd., Contact @=>kunalpghosh@gmail.com
+
+=>TLC Files-Lokesh Maji, M.Tech - VLSI, Batch: 2022-24, IIITB, Contact @=> majilokesh10@gmail.com
