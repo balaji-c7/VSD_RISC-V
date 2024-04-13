@@ -148,7 +148,7 @@ wave-form
 ![Screenshot 2024-03-13 204423](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/fda769c2-fbfb-43b8-97c7-e8a3f8658cb4)
 
 Certificate of completion
-[Balaji_intern_vsd (1).pdf](https://github.com/balaji-c7/VSD_RISC-V/files/14967671/Balaji_intern_vsd.1.pdf)
+![WhatsApp Image 2024-04-13 at 8 13 03 PM](https://github.com/balaji-c7/VSD_RISC-V/assets/126571399/0b84d7c1-21c7-40bc-9d0a-8e4c68400950)
 #ACKNOWLEDGMENT
 
 
